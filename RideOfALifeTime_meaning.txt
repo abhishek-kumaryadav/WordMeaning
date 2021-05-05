@@ -1,0 +1,1196 @@
+perils:
+{'Noun': ['a source of danger; a possibility of incurring loss or misfortune', 'a state of danger involving risk', 'a venture undertaken without regard to possible loss or injury'], 'Verb': ['pose a threat to; present a danger to', 'put in a dangerous, disadvantageous, or difficult position']}
+Synonym:['danger', 'health hazard', 'moral hazard', 'sword of Damocles', 'hazard', 'risk', 'jeopardy', 'occupational hazard', 'endangerment']
+Antonym:['de-energize', 'strain', 'sedate', 'de-energise', 'unstrain']
+awry:
+{'Adjective': ['turned or twisted toward one side', 'not functioning properly'], 'Adverb': ['away from the correct or expected course', 'turned or twisted to one side']}
+Synonym:['askew', 'cockeyed', 'skew-whiff', 'wonky', 'crooked', 'lopsided']
+Antonym:['straight', 'direct', 'honest', 'dishonesty', 'lawful']
+extricate:
+{'Verb': ['release from entanglement of difficulty']}
+Synonym:['disencumber', 'disengage', 'untangle', 'free', 'disentangle']
+Antonym:['obstruct', 'clog', 'stuff', 'engage', 'hold']
+chide:
+{'Verb': ['censure severely or angrily']}
+Synonym:['chew out', 'lecture', 'remonstrate', 'call on the carpet', 'call down', 'take to task', 'reproof', 'reprimand', 'chasten', 'lambaste', 'rebuke', 'tell off', 'objurgate', 'have words', 'scold', 'criticise', 'correct', 'bawl out', 'rag', 'berate', 'dress down', 'trounce', 'castigate', 'jaw', 'chew up', 'pick apart', 'brush down', 'knock', 'chastise', 'criticize', 'lambast']
+Antonym:['praise', 'curse', 'bless', 'cheer', 'flatter']
+exacerbate:
+{'Verb': ['make worse', 'exasperate or irritate']}
+Synonym:['cheapen', 'degrade', 'change', 'exasperate', 'irritate', 'worsen', 'modify', 'aggravate', 'inflame', 'alter']
+Antonym:['better', 'soothe', 'humanize', 'stiffen', 'decrease']
+pragmatic:
+{'Noun': ['an imperial decree that becomes part of the fundamental law of the land'], 'Adjective': ['concerned with practical matters', 'or pragmatic', 'of or concerning the theory of pragmatism', 'guided by practical experience and observation rather than theory']}
+Synonym:['practical', 'pragmatical', 'matter-of-fact']
+Antonym:['impractical', 'unreal', 'impossible', 'nonrepresentational']
+credible:
+{'Adjective': ['capable of being believed', "(a common but incorrect usage where `credulous' would be appropriate", 'appearing to merit belief or acceptance']}
+Synonym:['presumptive', 'likely', 'believable', 'plausible', 'thinkable', 'credibleness', 'credibility', 'believability']
+Antonym:['incredibility', 'implausible', 'unthinkable', 'incredible', 'unlikely']
+inscrutable:
+{'Adjective': ['of an obscure nature']}
+Synonym:['incomprehensible', 'deep', 'inexplicable', 'cryptic', 'mystifying', 'mysterious', 'cryptical']
+Antonym:['explicable', 'clear', 'intelligible', 'comprehensible', 'soluble']
+pike:
+{'Noun': ['a broad highway designed for high-speed traffic', 'highly valued northern freshwater fish with lean flesh', 'a sharp point (as on the end of a spear', 'medieval weapon consisting of a spearhead attached to a long pole or pikestaff; superseded by the bayonet', 'any of several elongate long-snouted freshwater game and food fishes widely distributed in cooler parts of the northern hemisphere']}
+Synonym:['highway', 'freeway', 'superhighway', 'throughway', 'thruway', 'motorway', 'autobahn', 'autostrada', 'main road', 'toll road', 'state highway', 'expressway', 'carriageway', 'turnpike']
+Antonym:['antinode', 'node', 'end', 'beginning', 'middle']
+monotony:
+{'Noun': ['the quality of wearisome constancy, routine, and lack of variety', 'constancy of tone or pitch or inflection']}
+Synonym:['unvariedness', 'humdrum', 'sameness']
+Antonym:['variedness', 'exciting', 'lively', 'inequality']
+toil:
+{'Noun': ['productive work (especially physical work done for wages'], 'Verb': ['work hard']}
+Synonym:['drudge', 'fag', 'grind', 'moil', 'work', 'labor', 'dig', 'do work', 'labour', 'travail']
+Antonym:['best', 'worst', 'effortless', 'refresh', 'stand still']
+obscurity:
+{'Noun': ['the quality of being unclear or abstruse and hard to understand', 'an obscure and unimportant standing; not well known', 'the state of being indistinct or indefinite for lack of adequate illumination']}
+Synonym:['abstruseness', 'reconditeness', 'incomprehensibility', 'obscureness']
+Antonym:['clarity', 'comprehensibility', 'honor', 'dishonor', 'running']
+mogul:
+{'Noun': ['a bump on a ski slope', 'a member of the Muslim dynasty that ruled India until 1857', 'a very wealthy or powerful businessman']}
+Synonym:['top executive', 'businessman', 'tycoon', 'business leader', 'king', 'oil tycoon', 'power', 'man of affairs', 'magnate', 'big businessman', 'baron']
+Antonym:['straighten', 'obscurity', 'unimportance', 'promote', 'miss']
+triage:
+{'Noun': ['sorting and allocating aid on the basis of need for or likely benefit from medical treatment or food']}
+Synonym:['sorting']
+Antonym:None
+plum:
+{'Noun': ['any of several trees producing edible oval fruit having a smooth skin and a single hard stone', 'any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit', 'a highly desirable position or assignment'], 'Adverb': ['exactly', 'completely; used as intensifiers', 'or plum']}
+Synonym:['plumb']
+Antonym:['deglycerolize', 'disarrange']
+crooned:
+{'Verb': ['sing softly']}
+Synonym:['sing']
+Antonym:['keep quiet']
+brash:
+{'Adjective': ['offensively bold']}
+Synonym:['forward', 'cheeky', 'nervy']
+Antonym:['backward', 'timid', 'regressive', 'aft']
+squinted:
+{'Verb': ["cross one's eyes as if in strabismus", 'be cross-eyed; have a squint or strabismus', "partly close one's eyes, as when hit by direct blinding light"]}
+Synonym:['pull a face', 'grimace', 'make a face', 'squinch']
+Antonym:['stand still', 'profound', 'distrust', 'mistrust', 'disagree']
+embezzlement:
+{'Noun': ['the fraudulent appropriation of funds or property entrusted to your care but actually owned by someone else']}
+Synonym:['theft', 'misappropriation', 'plunderage', 'thievery', 'peculation', 'thieving', 'defalcation', 'larceny', 'stealing', 'raid', 'misapplication']
+Antonym:['petit larceny', 'grand larceny', 'honest', 'defend']
+Concorde:
+None
+Synonym:None
+Antonym:None
+intoned:
+{'Verb': ['utter monotonously and repetitively and rhythmically', 'recite with musical intonation; recite as a chant or a psalm', 'speak carefully, as with rising and falling pitch or in a particular tone'], 'Adjective': ['uttered in a monotonous cadence or rhythm as in chanting']}
+Synonym:['rhythmic', 'chantlike', 'rhythmical', 'singsong']
+Antonym:['unrhythmical', 'irregular', 'nonrhythmic', 'arrhythmical', 'unrhythmic']
+Montrachet:
+{'Noun': ['a white Burgundy wine']}
+Synonym:['Burgundy wine', 'white wine', 'Burgundy']
+Antonym:None
+intransigent:
+{'Adjective': ['impervious to pleas, persuasion, requests, reason']}
+Synonym:['adamant', 'inflexible', 'inexorable', 'adamantine']
+Antonym:['flexible', 'elastic', 'compromising', 'adaptable', 'placable']
+byzantine:
+{'Noun': ['a native or inhabitant of Byzantium or of the Byzantine Empire'], 'Adjective': ['of or relating to the Eastern Orthodox Church or the rites performed in it', 'of or relating to or characteristic of the Byzantine Empire or the ancient city of Byzantium', 'highly complex or intricate and occasionally devious']}
+Synonym:['involved', 'knotty', 'complex', 'convoluted', 'tortuous', 'tangled']
+Antonym:['simple', 'uninvolved', 'unencumbered', 'unattached', 'unenclosed']
+brownouts:
+{'Noun': ['darkness resulting from the extinction of lights (as in a city invisible to enemy aircraft']}
+Synonym:['blackout', 'darkness', 'dark', 'dimout']
+Antonym:['light', 'consciousness', 'enlightenment', 'lightness', 'day']
+nuanced:
+None
+Synonym:None
+Antonym:None
+analogous:
+{'Adjective': ['similar or equivalent in some respects though otherwise dissimilar', 'corresponding in function but not in evolutionary origin']}
+Synonym:['correspondent', 'similar']
+Antonym:['dissimilar', 'dissimilarity', 'different']
+reveled:
+{'Verb': ['take delight in', 'celebrate noisily, often indulging in drinking; engage in uproarious festivities']}
+Synonym:['have a ball', 'wallow', 'use', 'live it up', 'enjoy', 'expend', 'have a good time', 'delight']
+Antonym:['repair', 'success', 'rich', 'defend', 'order']
+dictum:
+{'Noun': ['an authoritative declaration', 'an opinion voiced by a judge on a point of law not directly bearing on the case in question and therefore not binding']}
+Synonym:['pronouncement', 'declaration', 'say-so', 'directive']
+Antonym:['reversal', 'judgment in personam', 'judgment in rem', 'affirmation', 'judiciousness']
+galvanizing:
+{'Verb': ['to stimulate to action', 'cover with zinc', 'stimulate (muscles'], 'Adjective': ['affected by emotion as if by electricity; thrilling']}
+Synonym:['galvanic', 'exciting', 'galvanising', 'electric']
+Antonym:['unexciting', 'unprovocative', 'unsexy', 'unstimulating', 'uninteresting']
+excerpts:
+{'Noun': ['a passage selected from a larger work'], 'Verb': ['take out of a literary work in order to cite or copy']}
+Synonym:['cutting', 'quotation', 'press clipping', 'press cutting', 'cut', 'citation', 'analects', 'chrestomathy', 'clipping', 'track', 'passage', 'extract', 'quote', 'excerption', 'analecta', 'newspaper clipping', 'selection']
+Antonym:['dull', 'hot', 'kind', 'concentration', 'inflate']
+perfunctory:
+{'Adjective': ['hasty and without attention to detail; not thorough', 'or cursory', 'done or produced as a formality only']}
+Synonym:['passing', 'cursory', 'casual', 'careless']
+Antonym:['careful', 'birth', 'permanent', 'failing', 'running']
+livid:
+{'Adjective': ['anemic looking from illness or emotion', '(of a light', 'furiously angry', 'discolored by coagulation of blood beneath the skin']}
+Synonym:['light']
+Antonym:['dark', 'alive']
+excoriating:
+{'Verb': ['express strong disapproval of', 'tear or wear off the skin or make sore by abrading']}
+Synonym:['objurgate', 'reprobate', 'condemn', 'denounce', 'decry']
+Antonym:['please', 'soothe', 'incorrupt', 'accept', 'approbate']
+procure:
+{'Verb': ['get by special effort', 'arrange for sexual partners for others']}
+Synonym:['copyright', 'suborn', 'patent', 'obtain', 'secure', 'engage', 'enlist']
+Antonym:['unstaple', 'unpin', 'detach', 'unbuckle', 'unhook']
+capricious:
+{'Adjective': ['changeable', 'determined by chance or impulse or whim rather than by necessity or reason']}
+Synonym:['arbitrary', 'whimsical', 'impulsive']
+Antonym:['nonarbitrary', 'cautious', 'undynamic', 'induced']
+vicissitudes:
+{'Noun': ['a variation in circumstances or fortune at different times in your life or in the development of something', 'mutability in life or nature (especially successive alternation from one condition to another']}
+Synonym:['mutableness', 'mutability']
+Antonym:['immutability', 'immutableness', 'changelessness']
+minnow:
+{'Noun': ['very small European freshwater fish common in gravelly streams']}
+Synonym:['cyprinid fish', 'cyprinid', 'Phoxinus', 'Phoxinus phoxinus', 'genus Phoxinus']
+Antonym:None
+sprawling:
+{'Noun': ['an ungainly posture with arms and legs spread about'], 'Verb': ["sit or lie with one's limbs spread out", 'go, come, or spread in a rambling or irregular way'], 'Adjective': ['spreading out in different directions or distributed irregularly']}
+Synonym:['sprawl', 'attitude', 'position', 'posture']
+Antonym:['gather', 'reverence', 'respect', 'intolerance', 'irreverence']
+Archdiocese:
+{'Noun': ['the diocese of an archbishop']}
+Synonym:['bishopric', 'diocese', 'episcopate']
+Antonym:None
+penny-pinching:
+{'Noun': ['extreme care in spending money; reluctance to spend money unnecessarily'], 'Verb': ['spend money frugally; spend as little as possible'], 'Adjective': ['giving or spending with reluctance', 'or near']}
+Synonym:['thrift', 'parsimony', 'parsimoniousness', 'frugality', 'frugalness']
+Antonym:['natural', 'right', 'charitable', 'unselfish', 'stinginess']
+snickering:
+{'Verb': ['laugh quietly']}
+Synonym:['express mirth', 'laugh', 'snigger', 'express joy']
+Antonym:['cry', 'utterance', 'halloo', 'yodel', 'Bronx cheer']
+cynics:
+{'Noun': ['someone who is critical of the motives of others', 'a member of a group of ancient Greek philosophers who advocated the doctrine that virtue is the only good and that the essence of virtue is self-control']}
+Synonym:['unpleasant person', 'faultfinder', 'knocker', 'disparager', 'disagreeable person', 'detractor', 'depreciator']
+Antonym:['necessitarian', 'libertarian']
+snobs:
+{'Noun': ['a person regarded as arrogant and annoying']}
+Synonym:['unpleasant person', 'disagreeable person', 'prig', 'snot', 'snoot']
+Antonym:None
+corny:
+{'Adjective': ['dull and tiresome but with pretensions of significance or originality']}
+Synonym:['platitudinous', 'unoriginal', 'platitudinal', 'bromidic']
+Antonym:['original', 'unoriginality', 'primary', 'creative', 'unconventional']
+camaraderie:
+{'Noun': ['the quality of affording easy familiarity and sociability']}
+Synonym:['sociability', 'comradeliness', 'chumminess', 'comradery', 'sociableness', 'comradeship']
+Antonym:['unsociability', 'extraversion', 'unsociable', 'sociable', 'closeness']
+glitz:
+{'Noun': ['tasteless showiness']}
+Synonym:['meretriciousness', 'brashness', 'garishness', 'gaudiness', 'loudness', 'tawdriness', 'tastelessness', 'flashiness']
+Antonym:['tastefulness', 'beauty', 'softness', 'soft', 'loud']
+aloof:
+{'Adjective': ['remote in manner'], 'Adverb': ['in an aloof manner']}
+Synonym:['reserved', 'upstage', 'distant']
+Antonym:['unreserved', 'demonstrative', 'unrestrained', 'forward']
+commiserated:
+{'Verb': ['to feel or express sympathy or compassion']}
+Synonym:['feel for', 'condole', 'sympathise', 'condole with', 'pity', 'sympathize', 'sympathize with', 'compassionate']
+Antonym:['mercilessness', 'uncompassionate', 'inhumane', 'unsympathetic', 'merciless']
+griped:
+{'Verb': ['complain']}
+Synonym:['twitch', 'nip', 'squeeze', 'tweet', 'bite', 'pinch', 'seize with teeth', 'prehend', 'twinge', 'seize', 'clutch']
+Antonym:['unacquisitive', 'unclasp', 'unfasten', 'unbuckle', 'incapability']
+crimping:
+{'Verb': ['make ridges into by pinching together', 'curl tightly']}
+Synonym:['pin curl', 'kiss curl', 'lock', 'curl', 'whorl', 'ringlet', 'spit curl']
+Antonym:['roundness', 'unweave', 'uncross', 'stay', 'open']
+profligate:
+{'Noun': ['a dissolute man in fashionable society', 'a recklessly extravagant consumer'], 'Adjective': ['recklessly wasteful', 'unrestrained by convention or morality']}
+Synonym:['debauched', 'riotous', 'degenerate', 'libertine', 'dissolute', 'fast', 'immoral', 'degraded', 'dissipated']
+Antonym:['moral', 'scarce', 'quiet', 'sadist', 'masochist']
+shrewd:
+{'Adjective': ['marked by practical hardheaded intelligence', 'acting with a specific goal']}
+Synonym:['sharp', 'astute', 'smart']
+Antonym:['stupid', 'artless', 'ease', 'effortless']
+stipulation:
+{'Noun': ['or by their attorneys', 'an assumption on which rests the validity or effect of something else', 'a restriction that is insisted upon as a condition for an agreement']}
+Synonym:['assumption', 'proviso', 'boundary condition', 'condition', 'provision', 'precondition', 'premise', 'premiss']
+Antonym:['decline', 'comfort', 'danger', 'stigmatism', 'innocence']
+vaunted:
+{'Verb': ['show off']}
+Synonym:['boast', 'boasting', 'jactitation', 'self-praise']
+Antonym:['failure', 'beginning', 'defeat', 'complain', 'lose']
+inflection:
+{'Noun': ['a change in the form of a word (usually by adding a suffix', 'the patterns of stress and intonation in a language', 'deviation from a straight or normal course', 'a manner of speaking in which the loudness or pitch or tone of the voice is modified']}
+Synonym:['pitch contour', 'rhythm', 'stress', 'accent', 'enjambement', 'delivery', 'caesura', 'speech', 'intonation', 'speech rhythm', 'modulation', 'manner of speaking', 'enjambment', 'prosody', 'emphasis']
+Antonym:['foreground', 'play up', 'death', 'disassortative mating', 'assortative mating']
+amiable:
+{'Adjective': ['disposed to please', 'diffusing warmth and friendliness']}
+Synonym:['good-humored', 'good-humoured', 'good-natured']
+Antonym:['ill-natured', 'unfriendliness', 'unsociable', 'ungracious']
+exuding:
+{'Verb': ['release (a liquid', "make apparent by one's mood or behavior"]}
+Synonym:['ooze', 'eliminate', 'pass', 'release', 'transude', 'excrete', 'distill', 'extravasate', 'gum', 'reek', 'ooze out', 'transpire', 'froth', 'fume', 'secrete', 'egest', 'exudate', 'distil', 'stream']
+Antonym:['keep down', 'include', 'necessitate', 'dematerialize', 'dematerialise']
+extol:
+{'Verb': ['praise, glorify, or honor']}
+Synonym:['praise', 'hymn', 'exalt', 'crack up', 'canonise', 'canonize', 'ensky', 'proclaim', 'laud', 'glorify']
+Antonym:['criticize', 'disparage', 'disapproval', 'depress', 'discourage']
+cavernous:
+{'Adjective': ['being or suggesting a cavern', 'filled with vascular sinuses and capable of becoming distended and rigid as the result of being filled with blood']}
+Synonym:['expansive', 'erectile']
+Antonym:['unexpansive', 'uncommunicative', 'unimpressive']
+chinook:
+{'Noun': ['a warm dry wind blowing down the eastern slopes of the Rockies', 'a member of an important North American Indian people who controlled the mouth of the Columbia river; they were organized into settlements rather than tribes', 'pink or white flesh of large Pacific salmon', 'a Penutian language spoken by the Chinook', 'large Pacific salmon valued as food; adults die after spawning']}
+Synonym:['Oncorhynchus', 'king salmon', 'quinnat salmon', 'salmon', 'genus Oncorhynchus', 'Oncorhynchus tshawytscha', 'chinook salmon']
+Antonym:['achromatic color', 'achromatic', 'unwind', 'uncoil', 'stay in place']
+bobsled:
+{'Noun': ['formerly two short sleds coupled together', 'a long racing sled (for 2 or more people'], 'Verb': ['ride a bobsled']}
+Synonym:['sled', 'sleigh', 'sledge', 'bobsleigh']
+Antonym:['walk', 'stand still']
+quixotic:
+{'Adjective': ['not sensible about practical matters; idealistic and unrealistic']}
+Synonym:['wild-eyed', 'impractical', 'romantic']
+Antonym:['practical', 'unagitated', 'realistic', 'possible']
+exude:
+{'Verb': ['release (a liquid', "make apparent by one's mood or behavior"]}
+Synonym:['ooze', 'eliminate', 'pass', 'release', 'transude', 'excrete', 'distill', 'extravasate', 'gum', 'reek', 'ooze out', 'transpire', 'froth', 'fume', 'secrete', 'egest', 'exudate', 'distil', 'stream']
+Antonym:['keep down', 'include', 'necessitate', 'dematerialize', 'dematerialise']
+averted:
+{'Verb': ['prevent the occurrence of; prevent from happening', 'turn away or aside']}
+Synonym:['preclude', 'foreclose', 'prevent', 'avoid', 'ward off', 'fend off', 'forestall', 'obviate', 'head off', 'debar', 'deflect', 'forfend', 'forefend', 'forbid', 'stave off']
+Antonym:['let', 'confront', 'validate', 'consume', 'refrain']
+forgo:
+{'Verb': ['do without or cease to hold or adhere to', 'be earlier in time; go back further', 'lose (s.th.']}
+Synonym:['dispense with', 'waive', 'forego', 'foreswear', 'relinquish', 'give up', 'kick']
+Antonym:['hold', 'requisition', 'continue', 'enter', 'take office']
+disdain:
+{'Noun': ['lack of respect accompanied by a feeling of intense dislike', 'a communication that indicates lack of respect by patronizing the recipient'], 'Verb': ['look down on with disdain', 'reject with contempt']}
+Synonym:['hate', 'look down on', 'despise', 'contemn', 'detest', 'scorn']
+Antonym:['love', 'admire', 'please', 'attract', 'pull']
+animosity:
+{'Noun': ['a feeling of ill will arousing active hostility']}
+Synonym:['bad blood', 'enmity', 'ill will', 'animus', 'hostility']
+Antonym:['love', 'hot war', 'peace', 'friendliness']
+looming:
+{'Verb': ['come into view indistinctly, often threateningly', 'appear very large or occupy a commanding position', 'hang over, as of something threatening, dark, or menacing', 'weave on a loom']}
+Synonym:['seem', 'look', 'appear']
+Antonym:['descent', 'decrease', 'wane', 'set']
+prodded:
+{'Verb': ['to push against gently', 'urge on; cause to act', 'poke or thrust abruptly']}
+Synonym:['goad', 'egg on', 'goose', 'halloo', 'incite']
+Antonym:['repel', 'push', 'refrain', 'decompress', 'stand still']
+square peg:
+None
+Synonym:None
+Antonym:None
+blandness—my:
+None
+Synonym:['beggar-my-neighbour policy', 'policy', 'beggar-my-neighbor strategy', 'beggar-my-neighbor policy']
+Antonym:['emotionality', 'roughness', 'variability']
+winnow:
+{'Noun': ['the act of separating grain from chaff'], 'Verb': ['separate the chaff from grain by using air currents', 'blow on', 'select desirable parts from a group or list', 'blow away or off with a current of air']}
+Synonym:['fan', 'sieve', 'strain', 'sift']
+Antonym:['obviate', 'refuse', 'dishonor', 'disclaim', 'outgo']
+internalized:
+{'Verb': ['incorporate within oneself; make subjective or personal']}
+Synonym:['attribute', 'interiorise', 'interiorize', 'assign', 'ascribe', 'internalise', 'impute']
+Antonym:['uncheerfulness', 'cheerfulness', 'misconception', 'promote', 'demote']
+enthralled:
+{'Verb': ['hold spellbound', 'hold spellbound'], 'Adjective': ['filled with wonder and delight']}
+Synonym:['charmed', 'beguiled', 'entranced', 'captivated', 'delighted', 'enchanted']
+Antonym:['disenchanted', 'unloving', 'displeased', 'disillusioned', 'disabused']
+vilified:
+{'Verb': ['spread negative information about']}
+Synonym:['revile', 'blackguard', 'vituperate', 'rail', 'clapperclaw', 'shout', 'abuse']
+Antonym:['cheer', 'walk', 'whisper']
+precipitously:
+{'Adverb': ['very suddenly and to a great degree', 'abruptly; in a precipitous manner']}
+Synonym:['sharply']
+Antonym:None
+disarray:
+{'Noun': ['a mental state characterized by a lack of clear and orderly thought and behavior', 'untidiness (especially of clothing and appearance'], 'Verb': ['bring disorder to']}
+Synonym:['bewilderment', 'befuddlement', 'state of mind', 'muddiness', 'confusion', 'haze', 'perplexity', 'mental confusion', 'fog', 'daze', 'confusedness', 'half-cock', 'puzzlement', 'distraction', 'obfuscation', 'jamais vu', 'bemusement', 'cognitive state', 'mystification', 'bafflement', 'disorientation']
+Antonym:['uncertainty', 'outwardness', 'certainty', 'clarity', 'dryness']
+coherent:
+{'Adjective': ['marked by an orderly, logical, and aesthetically consistent relation of parts', 'capable of thinking and expressing yourself in a clear and consistent manner', '(physics', 'sticking together']}
+Synonym:['ordered', 'rational', 'logical', 'seamless', 'consistent']
+Antonym:['incoherent', 'irrational', 'unreasonable', 'insane', 'illogical']
+encroach:
+{'Verb': ['advance beyond the usual limit', 'impinge or infringe upon']}
+Synonym:['progress', 'move on', 'impinge', 'go on', 'infringe', 'march on', 'advance', 'pass on']
+Antonym:['recede', 'stay in place', 'retreat', 'regress', 'dematerialize']
+“audaciousness”:
+None
+Synonym:['nerve', 'presumption', 'assumption', 'brass', 'audacity', 'boldness', 'effrontery', 'face', 'presumptuousness', 'cheek']
+Antonym:['cowardice', 'fearfulness', 'timid', 'inconspicuousness', 'fixed-width font']
+corpulent:
+{'Adjective': ['excessively fat']}
+Synonym:['weighty', 'rotund', 'fat', 'obese']
+Antonym:['thin', 'unimportant', 'dissuasive', 'light', 'angular']
+trapeze:
+{'Noun': ['a swing used by circus acrobats']}
+Synonym:['swing']
+Antonym:['stay in place', 'stay']
+stodginess:
+{'Noun': ['dull and pompous gravity']}
+Synonym:['graveness', 'soberness', 'stuffiness', 'sobriety', 'gravity', 'somberness', 'sombreness']
+Antonym:['frivolity', 'drunkenness', 'intemperance', 'repulsion', 'levity']
+painstaking:
+{'Adjective': ['characterized by extreme care and great effort']}
+Synonym:['conscientious', 'careful', 'scrupulous']
+Antonym:['careless', 'carelessness', 'negligent', 'incautious']
+stint:
+{'Noun': ['an unbroken period of time during which you do something', 'smallest American sandpiper', "an individual's prescribed share of work"], 'Verb': ['subsist on a meager allowance', 'supply sparingly and with restricted quantities']}
+Synonym:['duration', 'continuance', 'stretch']
+Antonym:['demand', 'divest', 'fire', 'long']
+ascribed:
+{'Verb': ['attribute or credit to']}
+Synonym:['evaluate', 'externalize', 'charge', 'internalize', 'credit', 'personate', 'internalise', 'anthropomorphise', 'judge', 'personify', 'accredit', 'impute', 'anthropomorphize', 'attribute', 'reattribute', 'pass judgment', 'blame', 'project', 'interiorise', 'carnalize', 'interiorize', 'sensualize', 'assign', 'externalise']
+Antonym:['fail', 'reject', 'disapprove', 'pass', 'approve']
+begrudge:
+{'Verb': ["be envious of; set one's heart on", 'wish ill or allow unwillingly']}
+Synonym:['resent']
+Antonym:['wish', 'despair']
+unequivocally:
+{'Adverb': ['in an unambiguous manner']}
+Synonym:['unambiguously']
+Antonym:['ambiguously', 'equivocally']
+subsumed:
+{'Verb': ['contain or include', 'consider (an instance of something']}
+Synonym:['include', 'colligate']
+Antonym:['exclude', 'lack', 'disallow']
+exuded:
+{'Verb': ['release (a liquid', "make apparent by one's mood or behavior"]}
+Synonym:['ooze', 'eliminate', 'pass', 'release', 'transude', 'excrete', 'distill', 'extravasate', 'gum', 'reek', 'ooze out', 'transpire', 'froth', 'fume', 'secrete', 'egest', 'exudate', 'distil', 'stream']
+Antonym:['keep down', 'include', 'necessitate', 'dematerialize', 'dematerialise']
+due:
+{'Noun': ['that which is deserved or owed', 'a payment that is due (e.g., as the price of membership'], 'Adjective': ['owed and payable immediately or on demand', 'scheduled to arrive', 'suitable to or expected in the circumstances', 'capable of being assigned or credited to'], 'Adverb': ['directly or exactly; straight']}
+Synonym:['callable', 'cod', 'payable', 'collect', 'collectable', 'out-of-pocket', 'delinquent', 'receivable', 'collectible', 'repayable', 'overdue']
+Antonym:['undue', 'undeceive', 'spread', 'give', 'diligent']
+diligence:
+{'Noun': ['conscientiousness in paying proper attention to a task; giving the degree of care required in a given situation', 'persevering determination to perform a task', 'a diligent effort']}
+Synonym:['conscientiousness', 'painstakingness']
+Antonym:['unconscientiousness', 'dilution', 'nonfunctional']
+candid:
+{'Adjective': ['characterized by directness in manner or speech; without subtlety or evasion', 'informal or natural; especially caught off guard or unprepared', 'openly straightforward and direct without reserve or secretiveness']}
+Synonym:['plainspoken', 'outspoken', 'forthright', 'direct', 'frank', 'point-blank', 'blunt', 'free-spoken', 'straight-from-the-shoulder']
+Antonym:['indirect', 'rhetorical', 'uncommunicative', 'undock', 'dishonest']
+faux pas:
+None
+Synonym:None
+Antonym:None
+irate:
+{'Adjective': ['feeling or showing extreme anger']}
+Synonym:['angry', 'ireful']
+Antonym:['unangry', 'calm', 'healthy']
+paraphernalia:
+{'Noun': ['equipment consisting of miscellaneous articles needed for a particular operation or sport etc.']}
+Synonym:['gear', 'fishing gear', 'rigging', 'kit', 'equipment', 'appurtenance', 'fishing tackle', 'saddlery', 'tackle', 'tack', 'rig', 'outfit', 'stable gear', 'fishing rig', 'regalia']
+Antonym:['avoid', 'outspan', 'detach', 'unharness', 'disassemble']
+impunity:
+{'Noun': ['exemption from punishment or loss']}
+Synonym:['exemption', 'freedom']
+Antonym:['susceptibility', 'unfree', 'free']
+acrimony:
+{'Noun': ['a rough and bitter manner']}
+Synonym:['thorniness', 'jaundice', 'tartness', 'disagreeableness', 'acerbity', 'bitterness']
+Antonym:['agreeableness', 'smoothness', 'unpleasantness', 'compliance', 'obligingness']
+slew:
+{'Noun': [], 'Verb': ['kill intentionally and with premeditation', 'turn sharply; change direction abruptly', 'move obliquely or sideways, usually in an uncontrolled manner']}
+Synonym:['peel off', 'curve', 'turn', 'veer', 'cut', 'trend', 'sheer', 'yaw', 'swerve', 'slue']
+Antonym:['misfortune', 'bad luck', 'unite', 'empty', 'ebbtide']
+bristled:
+{'Verb': ['be in a state of movement or action', 'rise up as in fear', 'have or be thickly covered with or as if with bristles', 'react in an offended or angry manner'], 'Adjective': ['having or covered with protective barbs or quills or spines or thorns or setae etc.']}
+Synonym:['thorny', 'burred', 'briary', 'bristly', 'setaceous', 'briery', 'spiny', 'armed', 'barbed', 'setose', 'prickly', 'barbellate', 'burry']
+Antonym:['unarmed', 'easy', 'good-natured', 'spineless', 'armless']
+stodgy:
+{'Adjective': ['heavy and starchy and hard to digest', '(used pejoratively', 'excessively conventional and unimaginative and hence dull']}
+Synonym:['unfashionable', 'moss-grown', 'stick-in-the-mud', 'fogyish', 'unstylish', 'mossy']
+Antonym:['fashionable', 'stylish', 'informal', 'unconventionality', 'original']
+quintessential:
+{'Adjective': ['representing the perfect example of a class or quality']}
+Synonym:None
+Antonym:None
+omnibus:
+{'Noun': ['an anthology of articles on a related subject or an anthology of the works of a single author', 'a vehicle carrying many passengers; used for public transport'], 'Adjective': ['providing for many things at once']}
+Synonym:['comprehensive']
+Antonym:['noncomprehensive', 'appear']
+carte blanche:
+None
+Synonym:None
+Antonym:None
+vetted:
+{'Verb': ['work as a veterinarian', 'examine carefully', 'provide (a person', 'provide veterinary care for']}
+Synonym:['horse doctor', 'veterinary', 'veterinary surgeon', 'doc', 'MD', 'medico', 'veterinarian', 'physician', 'doctor', 'Dr.']
+Antonym:['woman', 'juvenile', 'female', 'black', 'white']
+debacle:
+{'Noun': ['a sudden and violent collapse', 'flooding caused by a tumultuous breakup of ice in a river during the spring or summer', 'a sound defeat']}
+Synonym:['fiasco', 'collapse']
+Antonym:['beginning', 'success', 'little']
+tune out:
+None
+Synonym:None
+Antonym:None
+animosity:
+{'Noun': ['a feeling of ill will arousing active hostility']}
+Synonym:['bad blood', 'enmity', 'ill will', 'animus', 'hostility']
+Antonym:['love', 'hot war', 'peace', 'friendliness']
+horrendous:
+{'Adjective': ['causing fear or dread or terror']}
+Synonym:['terrible', 'dire', 'awful', 'dreaded', 'alarming', 'direful', 'fearful', 'fearsome', 'frightening', 'dread', 'horrific', 'dreadful']
+Antonym:['unalarming', 'good', 'ordinary', 'mild', 'noncritical']
+icing:
+{'Noun': ['the formation of frost or ice on a surface', 'a flavored sugar topping used to coat and decorate cakes', '(ice hockey'], 'Verb': ['decorate with frosting', 'cause to become ice or icy', 'put ice on or put on ice']}
+Synonym:['frosting', 'topping', 'ice']
+Antonym:['immovableness', 'tightness', 'immovability', 'stay in place']
+severance:
+{'Noun': ['a personal or social separation (as between opposing factions', 'the act of severing']}
+Synonym:['breakup', 'rupture', 'rift', 'break', 'separation', 'schism', 'breach', 'detachment', 'falling out']
+Antonym:['respect', 'keep', 'explode', 'begin', 'promote']
+cordial:
+{'Noun': ['strong highly flavored sweet liquor usually drunk after a meal'], 'Adjective': ['diffusing warmth and friendliness', 'politely warm and friendly', 'sincerely or intensely felt']}
+Synonym:['affable', 'genial', 'amiable', 'friendly']
+Antonym:['unfriendly', 'nonalcoholic', 'inhospitable', 'ill-natured', 'hostile']
+wariness:
+{'Noun': ['the trait of being cautious and watchful']}
+Synonym:['chariness', 'circumspection', 'wary', 'unwary', 'caution']
+Antonym:['wary', 'unwary', 'unwariness', 'trustful', 'injudiciousness']
+angling:
+{'Noun': ['fishing with a hook and line (and usually a pole'], 'Verb': ['move or proceed at an angle', 'to incline or bend from a vertical position', 'seek indirectly', 'fish with a hook', 'present with a bias']}
+Synonym:['troll', 'trolling', 'fishing', 'fly-fishing', 'sportfishing']
+Antonym:['criticize']
+clamoring:
+{'Noun': ['loud and persistent outcry from many people'], 'Verb': ['make loud demands', 'utter or proclaim insistently and noisily', 'compel someone to do something by insistent clamoring']}
+Synonym:['hue and cry', 'yell', 'cry', 'vociferation', 'clamouring', 'shout', 'outcry', 'call', 'clamor', 'clamour']
+Antonym:['whisper', 'laugh', 'demobilize', 'cause to sleep', 'put option']
+fraught:
+{'Adjective': ['marked by distress', 'filled with or attended with']}
+Synonym:['troubled']
+Antonym:['untroubled', 'fractional']
+parochial:
+{'Adjective': ['relating to or supported by or located in a parish', 'narrowly restricted in outlook or scope']}
+Synonym:['insular', 'provincial']
+Antonym:['cosmopolitan', 'public', 'world-wide']
+ramshackle:
+{'Adjective': ['in deplorable condition']}
+Synonym:['broken-down', 'derelict', 'tumble-down', 'dilapidated', 'tatterdemalion', 'bedraggled', 'damaged']
+Antonym:['undamaged', 'serviceable', 'new', 'diligent', 'inhabited']
+complacent:
+{'Adjective': ["contented to a fault with oneself or one's actions"]}
+Synonym:['content', 'self-satisfied', 'self-complacent', 'contented']
+Antonym:['discontented', 'disapproval', 'approval', 'unbelief', 'belief']
+perennial:
+{'Noun': ['(botany'], 'Adjective': ['lasting three seasons or more', 'lasting an indefinitely long time; suggesting self-renewal', 'recurring again and again']}
+Synonym:['long']
+Antonym:['short', 'unretentive']
+crutch:
+{'Noun': ['a wooden or metal staff that fits under the armpit and reaches to the ground; used by disabled person while walking', 'anything that serves as an expedient']}
+Synonym:['staff']
+Antonym:['useless', 'inconvenient']
+autocrat:
+{'Noun': ['a cruel and oppressive dictator']}
+Synonym:['tyrant', 'dictator', 'potentate', 'czar', 'despot']
+Antonym:None
+vaunted:
+{'Verb': ['show off']}
+Synonym:['boast', 'boasting', 'jactitation', 'self-praise']
+Antonym:['failure', 'beginning', 'defeat', 'complain', 'lose']
+dissuade:
+{'Verb': ['turn away from by persuasion']}
+Synonym:['deter', 'rede', 'talk out of', 'counsel', 'advise']
+Antonym:['persuade', 'talk into', 'approve', 'indicate', 'drag']
+protracted:
+{'Verb': ['lengthen in time; cause to be or last longer'], 'Adjective': ['relatively long in duration; tediously protracted']}
+Synonym:['long', 'drawn-out', 'prolonged', 'lengthy', 'extended']
+Antonym:['short', 'improvident', 'unretentive', 'unmindful', 'scarce']
+haranguing:
+{'Verb': ['deliver a harangue to; address forcefully']}
+Synonym:['address', 'speak']
+Antonym:['close up', 'specify']
+exhorted:
+{'Verb': ['spur on or encourage especially by cheers and shouts', 'force or impel in an indicated direction']}
+Synonym:['bear on', 'advocate', 'push', 'urge', 'urge on', 'rede', 'hurry', 'counsel', 'press', 'advise', 'rush', 'preach']
+Antonym:['delay', 'stifle', 'discontinue', 'nonpartisan', 'pull']
+trove:
+{'Noun': ['treasure of unknown ownership found hidden (usually in the earth']}
+Synonym:['treasure trove', 'hoarded wealth', 'treasure']
+Antonym:['hate']
+nuances:
+{'Noun': ['a subtle difference in meaning or opinion or attitude']}
+Synonym:['shade', 'refinement', 'significance', 'import', 'meaning', 'subtlety', 'nicety', 'signification']
+Antonym:['colorlessness', 'brighten', 'stay', 'imperfection', 'inconsequence']
+lush:
+{'Noun': ['a person who drinks alcohol to excess habitually'], 'Adjective': ['produced or growing in extreme abundance', 'having strong sexual appeal', 'ostentatiously rich and superior in quality', 'tender and full of juice']}
+Synonym:['riotous', 'exuberant', 'luxuriant', 'profuse', 'abundant']
+Antonym:['scarce', 'nonalcoholic', 'unaddicted', 'nondrinker', 'familiar']
+encroached:
+{'Verb': ['advance beyond the usual limit', 'impinge or infringe upon']}
+Synonym:['progress', 'move on', 'impinge', 'go on', 'infringe', 'march on', 'advance', 'pass on']
+Antonym:['recede', 'stay in place', 'retreat', 'regress', 'dematerialize']
+sprawling:
+{'Noun': ['an ungainly posture with arms and legs spread about'], 'Verb': ["sit or lie with one's limbs spread out", 'go, come, or spread in a rambling or irregular way'], 'Adjective': ['spreading out in different directions or distributed irregularly']}
+Synonym:['sprawl', 'attitude', 'position', 'posture']
+Antonym:['gather', 'reverence', 'respect', 'intolerance', 'irreverence']
+scrutiny:
+{'Noun': ['the act of examining something closely (as for mistakes', 'a prolonged intense look']}
+Synonym:['testing', 'investigation', 'fine-toothed comb', 'look-over', 'tactual exploration', 'investigating', 'palpation', 'fine-tooth comb', 'followup', 'review', 'bank examination', 'once-over', 'postmortem examination', 'checkup', 'comparing', 'scan', 'medical exam', 'medical examination', 'endoscopy', 'PM', 'comparison', 'search', 'study', 'time-motion study', 'rhinoscopy', 'time and motion study', 'inspection', 'ophthalmoscopy', 'survey', 'medical', 'work study', 'keratoscopy', 'time study', 'time-and-motion study', 'health check', 'reexamination', 'postmortem', 'audit', 'medical checkup', 'post-mortem examination', 'motion study', 'autopsy', 'necropsy', 'going-over', 'examination', 'follow-up', 'post-mortem', 'gonioscopy']
+Antonym:['inactivity', 'forget', 'deviate', 'unlikeness', 'dissimilitude']
+bulwark:
+{'Noun': ['an embankment built around a space for defensive purposes', 'a fencelike structure around a deck (usually plural', 'a protective structure of stone or concrete; extends from shore into the water to prevent a beach from washing away'], 'Verb': ['defend with a bulwark']}
+Synonym:['barrier', 'ship']
+Antonym:['prosecute', 'bombard', 'besiege']
+gnaw:
+{'Verb': ['bite or chew on with the teeth', 'become ground down or deteriorate']}
+Synonym:['masticate', 'bite', 'chew', 'jaw', 'seize with teeth', 'manducate']
+Antonym:['addition', 'failure', 'praise']
+ensued:
+{'Verb': ['issue or terminate (in a specified way, state, etc.']}
+Synonym:['result', 'be due', 'come after', 'prove', 'come', 'fall out', 'turn out', 'flow from', 'turn up', 'follow']
+Antonym:['beginning', 'precede', 'predate', 'negate', 'affirm']
+exuberance:
+{'Noun': ['joyful enthusiasm', 'overflowing with eager enjoyment or approval']}
+Synonym:['spirit', 'life', 'rabidity', 'enthusiasm', 'lyricism', 'ebullience', 'liveliness', 'madness', 'sprightliness', 'rabidness']
+Antonym:['dull', 'happiness', 'unhappiness', 'courage', 'cowardice']
+cloistered:
+{'Verb': ['surround with a cloister, as of a garden', 'surround with a cloister', 'seclude from the world in or as if in a cloister'], 'Adjective': ['of communal life sequestered from the world under religious vows', 'providing privacy or seclusion']}
+Synonym:['sequestered', 'private', 'reclusive', 'secluded']
+Antonym:['public', 'impious', 'sophisticated', 'integrated', 'exoteric']
+aversion:
+{'Noun': ['a feeling of intense dislike', 'the act of turning yourself (or your gaze']}
+Synonym:['distaste', 'antipathy', 'dislike']
+Antonym:['liking', 'love', 'like', 'approve']
+aversion:
+{'Noun': ['a feeling of intense dislike', 'the act of turning yourself (or your gaze']}
+Synonym:['distaste', 'antipathy', 'dislike']
+Antonym:['liking', 'love', 'like', 'approve']
+solicitous:
+{'Adjective': ['full of anxiety and concern', 'showing hovering attentiveness']}
+Synonym:['attentive']
+Antonym:['inattentive', 'inattentiveness']
+stewards:
+{'Noun': ['someone who manages property or other affairs for someone else', "the ship's officer who is in charge of provisions and dining arrangements", 'an attendant on an airplane', 'a union member who is elected to represent fellow workers in negotiating with management', 'one having charge of buildings or grounds or animals']}
+Synonym:['fiduciary', 'chamberlain']
+Antonym:['stable', 'strong', 'hard']
+anemic:
+{'Adjective': ['lacking vigor or energy', 'relating to anemia or suffering from anemia']}
+Synonym:['weak', 'anaemic']
+Antonym:['strong', 'tough', 'rugged']
+oust:
+{'Verb': ['remove from a position or office', 'remove and replace']}
+Synonym:['expel', 'throw out', 'depose', 'drum out', 'boot out', 'remove', 'force out', 'excommunicate', 'kick out']
+Antonym:['repatriate', 'fuse', 'saddle', 'lodge', 'burden']
+abyss;:
+{'Noun': ['a bottomless gulf or pit; any unfathomable (or apparently unfathomable', 'often used figuratively']}
+Synonym:['abysm', 'chasm']
+Antonym:None
+rapacious:
+{'Adjective': ['living by preying on other animals especially by catching living prey', 'excessively greedy and grasping', 'devouring or craving food in great quantities']}
+Synonym:['raptorial', 'vulturous', 'aggressive', 'vulturine', 'predatory', 'ravening']
+Antonym:['unaggressive', 'abstemiousness', 'spartan', 'strict', 'ascetical']
+averse:
+{'Adjective': ["(usually followed by `to'"]}
+Synonym:['loth', 'indisposed', 'loath', 'disinclined', 'antipathetic', 'antipathetical']
+Antonym:['inclined', 'willing', 'well', 'affirmative', 'amicable']
+fiscally:
+{'Adverb': ['in financial matters']}
+Synonym:['in fiscal matters']
+Antonym:None
+anathema:
+{'Noun': ['a detested person', 'a formal ecclesiastical curse accompanied by excommunication']}
+Synonym:['curse', 'execration', 'condemnation']
+Antonym:['bless', 'admit', 'communicate', 'love']
+vehemently:
+{'Adverb': ['in a vehement manner']}
+Synonym:None
+Antonym:None
+skepticism:
+{'Noun': ['doubt about the truth of something', 'the disbelief in any claims of ultimate knowledge']}
+Synonym:['doubt', 'dubiety', 'incertitude', 'dubiousness', 'doubtfulness', 'incredulity', 'uncertainty', 'disbelief', 'mental rejection']
+Antonym:['certainty', 'trust', 'believe', 'probability', 'predictability']
+incumbent”:
+None
+Synonym:['officeholder', 'holder', 'functionary', 'office-bearer', 'official']
+Antonym:['irregular', 'unconfirmed', 'nonmodern', 'old', 'dispensable']
+insurgent”:
+None
+Synonym:['subverter', 'insurrectionist', 'Young Turk', 'reformer', 'subversive', 'mutineer', 'social reformer', 'freedom fighter', 'crusader', 'rebel', 'revolutionary', 'meliorist', 'reformist', 'revolutionist']
+Antonym:['rhythmical', 'irregularity', 'steady', 'conventional', 'full-time']
+articulate:
+{'Verb': ['provide with a joint', 'put into words or an expression', 'speak, pronounce, or utter in a certain way', 'unite by forming a joint or joints', 'express or state clearly'], 'Adjective': ['expressing yourself easily or characterized by clear expressive language', 'consisting of segments held together by joints']}
+Synonym:['eloquent', 'facile', 'fluent', 'speech-endowed', 'communicatory', 'spoken', 'smooth-spoken', 'silver', 'well-spoken', 'silver-tongued', 'communicative']
+Antonym:['uncommunicative', 'inarticulate', 'written', 'foreground', 'play up']
+alluded:
+{'Verb': ['make a more or less disguised reference to']}
+Synonym:['advert', 'suggest', 'bear on', 'hint', 'pertain', 'touch', 'denote', 'refer', 'come to', 'have-to doe with', 'concern', 'relate', 'touch on']
+Antonym:['contraindicate', 'stifle', 'discontinue', 'diverge', 'disengage']
+internist:
+{'Noun': ['a specialist in internal medicine']}
+Synonym:['medical specialist', 'specialist']
+Antonym:['generalist']
+internist:
+{'Noun': ['a specialist in internal medicine']}
+Synonym:['medical specialist', 'specialist']
+Antonym:['generalist']
+impervious:
+{'Adjective': ['not admitting of passage or capable of being affected']}
+Synonym:['corrosion-resistant', 'colorfast', 'acid-fast', 'runproof', 'rot-resistant', 'mothproof', 'ladder-proof', 'fast', 'resistant', 'impermeable', 'imperviable', 'greaseproof', 'moth-resistant', 'proof', 'run-resistant', 'soundproof']
+Antonym:['permeable', 'pervious', 'gradual', 'slow', 'unhurried']
+goading:
+{'Noun': ['a verbalization that encourages you to attempt something'], 'Verb': ['give heart or courage to', 'urge with or as if with a goad', 'stab or urge on as if with a pointed stick', 'annoy or provoke, as by constant criticism']}
+Synonym:['spurring', 'goad', 'prod', 'urging', 'prodding', 'spur', 'encouragement']
+Antonym:['discouragement', 'discourage', 'pull', 'disapproval', 'despair']
+disparage:
+{'Verb': ['express a negative opinion of']}
+Synonym:['criticize', 'deprecate', 'vilipend', 'belittle', 'tear apart', 'trash', 'disgrace', 'discredit', 'pick at', 'derogate', 'denigrate', 'minimize', 'criticise', 'pan', 'pick apart', 'depreciate', 'knock']
+Antonym:['praise', 'flatter', 'approve', 'increase', 'humanize']
+flunked:
+{'Verb': ['fail to get a passing grade']}
+Synonym:['failure', 'failing']
+Antonym:['passing', 'succeed', 'function']
+comported:
+{'Verb': ['behave well or properly', 'behave in a certain manner']}
+Synonym:['move', 'conduct', 'bear', 'act', 'pose', 'assert', 'behave', 'carry', 'put forward', 'deal', 'acquit', 'fluster', 'deport', 'posture', 'walk around', 'hold']
+Antonym:['refrain', 'rise', 'recede', 'ascend', 'ride']
+incredulous:
+{'Adjective': ['not disposed or willing to believe; unbelieving']}
+Synonym:['unbelievable', 'sceptical', 'incredible', 'distrustful', 'skeptical', 'unbelieving', 'disbelieving']
+Antonym:['credulous', 'credible', 'trustful', 'plausible', 'thinkable']
+intrigue:
+{'Noun': ['a crafty and involved plot to achieve your (usually sinister', 'a clandestine love affair'], 'Verb': ['cause to be interested or curious', 'form intrigues (for']}
+Synonym:['secret plan', 'game', 'plot', 'priestcraft', 'machination']
+Antonym:['inactivity', 'away game', 'home game', 'cowardly', 'fit']
+incessant:
+{'Adjective': ['uninterrupted in time and indefinitely long continuing']}
+Synonym:['ceaseless', 'continuous', 'perpetual', 'uninterrupted', 'unremitting', 'constant', 'never-ending', 'unceasing']
+Antonym:['discontinuous', 'broken', 'impermanent', 'inconstancy', 'unstable']
+incessant:
+{'Adjective': ['uninterrupted in time and indefinitely long continuing']}
+Synonym:['ceaseless', 'continuous', 'perpetual', 'uninterrupted', 'unremitting', 'constant', 'never-ending', 'unceasing']
+Antonym:['discontinuous', 'broken', 'impermanent', 'inconstancy', 'unstable']
+litany:
+{'Noun': ['any long and tedious address or recital', 'a prayer consisting of a series of invocations by the priest with responses from the congregation']}
+Synonym:['Book of Common Prayer']
+Antonym:['go', 'skew', 'tactlessness']
+insurgency:
+{'Noun': ['an organized rebellion aimed at overthrowing a constituted government through the use of subversion and armed conflict']}
+Synonym:['insurgence', 'rebellion', 'rising', 'revolt', 'uprising', 'insurrection']
+Antonym:['fall', 'descending', 'falling', 'past', 'present']
+emeritus:
+{'Noun': ['a professor or minister who is retired from assigned duties'], 'Adjective': ["honorably retired from assigned duties and retaining your title along with the additional title `emeritus' as in `professor emeritus'"]}
+Synonym:['old']
+Antonym:['young', 'worker']
+trite:
+{'Adjective': ['repeated too often; overfamiliar through overuse']}
+Synonym:['hackneyed', 'threadbare', 'timeworn', 'shopworn', 'banal', 'unoriginal', 'commonplace', 'old-hat', 'stock', 'tired', 'well-worn']
+Antonym:['original', 'new', 'unoriginality', 'primary', 'creative']
+accord:
+{'Noun': ["harmony of people's opinions or actions or characters", 'concurrence of opinion', 'a written agreement between two states or sovereigns', 'sympathetic compatibility'], 'Verb': ['go together', 'allow to have']}
+Synonym:['jibe', 'blend in', 'consort', 'concord', 'correspond', 'check', 'gibe', 'agree', 'tally', 'harmonize', 'harmonise', 'match', 'blend', 'go', 'fit in', 'fit']
+Antonym:['disjoin', 'unbalance', 'juvenile', 'rise', 'recede']
+animosity:
+{'Noun': ['a feeling of ill will arousing active hostility']}
+Synonym:['bad blood', 'enmity', 'ill will', 'animus', 'hostility']
+Antonym:['love', 'hot war', 'peace', 'friendliness']
+animosity:
+{'Noun': ['a feeling of ill will arousing active hostility']}
+Synonym:['bad blood', 'enmity', 'ill will', 'animus', 'hostility']
+Antonym:['love', 'hot war', 'peace', 'friendliness']
+rift:
+{'Noun': ['a gap between cloud masses', 'a narrow fissure in rock', 'a personal or social separation (as between opposing factions']}
+Synonym:['gap', 'opening']
+Antonym:['enliven', 'validate', 'continue']
+haughty:
+{'Adjective': ['having or showing arrogant superiority to and disdain of those one views as unworthy']}
+Synonym:['sniffy', 'prideful', 'disdainful', 'proud', 'supercilious', 'overbearing', 'swaggering', 'imperious', 'lordly']
+Antonym:['humble', 'dejected', 'respectful', 'modest', 'unimpressive']
+excoriated:
+{'Verb': ['express strong disapproval of', 'tear or wear off the skin or make sore by abrading']}
+Synonym:['objurgate', 'reprobate', 'condemn', 'denounce', 'decry']
+Antonym:['please', 'soothe', 'incorrupt', 'accept', 'approbate']
+burgeoning:
+{'Verb': ['grow and flourish']}
+Synonym:['grow']
+Antonym:['shrink', 'shorten']
+exemplified:
+{'Verb': ['be characteristic of', 'clarify by giving an example of']}
+Synonym:['expand', 'flesh out', 'lucubrate', 'expound', 'instance', 'illustrate', 'dilate', 'elaborate', 'expatiate', 'exposit', 'enlarge']
+Antonym:['contract', 'obfuscate', 'generalize', 'decrease', 'deflate']
+cowing:
+{'Verb': ['subdue, restrain, or overcome by affecting with a feeling of awe; frighten (as with threats']}
+Synonym:['kine', 'springing cow', 'bag', 'Bos taurus', 'cows', 'cattle', 'heifer', 'springer', 'udder', 'poll', 'oxen', 'moo-cow']
+Antonym:['aplacental']
+complacency:
+{'Noun': ['the feeling you have when you are satisfied with yourself']}
+Synonym:['self-satisfaction', 'self-complacency', 'satisfaction', 'smugness', 'complacence']
+Antonym:['dissatisfaction', 'discontentment', 'nonpayment', 'letdown', 'tedium']
+rigor:
+{'Noun': ['something hard to endure', 'the quality of being valid and rigorous', 'excessive sternness']}
+Synonym:['sternness', 'grimness', 'severity', 'severeness', 'asperity', 'hardship', 'rigourousness', 'difficultness', 'difficulty', 'rigorousness', 'rigour']
+Antonym:['ease', 'well-being', 'easy', 'effortlessness', 'good weather']
+sieve:
+{'Noun': ['a strainer for separating lumps from powdered material or grading particles'], 'Verb': ['examine in order to test suitability', 'check and sort carefully', 'separate by passing through a sieve or other straining device to separate out coarser elements', 'distinguish and separate out']}
+Synonym:['screen', 'riddle', 'sifter', 'strainer']
+Antonym:['connect', 'join', 'stay', 'attach', 'associate']
+streamlining:
+{'Verb': ['contour economically or efficiently']}
+Synonym:['contour']
+Antonym:['angularity', 'roundness']
+mandate:
+{'Noun': ['a document giving an official instruction or command', 'a territory surrendered by Turkey or Germany after World War I and put under the tutelage of some other European power until they are able to stand by themselves', 'the commission that is given to a government and its policies through an electoral victory'], 'Verb': ['assign under a mandate', 'make mandatory', 'assign authority to']}
+Synonym:['legal instrument', 'unauthorised', 'authorisation', 'authorised', 'unauthorized', 'legal document', 'instrument', 'authorized', 'authorization', 'official document']
+Antonym:['unauthorized', 'authorized', 'illegitimate', 'unofficial', 'unlawful']
+steeples:
+{'Noun': ['a tall tower that forms the superstructure of a building (usually a church or temple']}
+Synonym:['pinnacle', 'spire', 'tower']
+Antonym:['lower']
+deign:
+{'Verb': ["do something that one considers to be below one's dignity"]}
+Synonym:['move', 'condescend', 'act', 'descend']
+Antonym:['refrain', 'rise', 'recede', 'ascend', 'ride']
+ceding:
+{'Noun': ['the act of ceding'], 'Verb': ['give over; surrender or relinquish to the physical control of another', 'relinquish possession or control over']}
+Synonym:['ceding back', 'relinquishment', 'relinquishing', 'cession', 'recession']
+Antonym:None
+candid:
+{'Adjective': ['characterized by directness in manner or speech; without subtlety or evasion', 'informal or natural; especially caught off guard or unprepared', 'openly straightforward and direct without reserve or secretiveness']}
+Synonym:['plainspoken', 'outspoken', 'forthright', 'direct', 'frank', 'point-blank', 'blunt', 'free-spoken', 'straight-from-the-shoulder']
+Antonym:['indirect', 'rhetorical', 'uncommunicative', 'undock', 'dishonest']
+ramifications:
+{'Noun': ['the act of branching out or dividing into branches', 'a part of a forked or branching shape', 'a development that complicates a situation', 'an arrangement of branching parts']}
+Synonym:['trifurcation', 'bifurcation', 'fibrillation', 'divarication', 'branching', 'division', 'forking', 'fork']
+Antonym:['converge', 'distributary', 'tributary', 'branchless', 'convergent']
+exuberance:
+{'Noun': ['joyful enthusiasm', 'overflowing with eager enjoyment or approval']}
+Synonym:['spirit', 'life', 'rabidity', 'enthusiasm', 'lyricism', 'ebullience', 'liveliness', 'madness', 'sprightliness', 'rabidness']
+Antonym:['dull', 'happiness', 'unhappiness', 'courage', 'cowardice']
+dabbled:
+{'Verb': ['dip a foot or hand briefly into a liquid', 'play in or as if in water, as of small children', 'work with in an amateurish manner', 'bob forward and under so as to feed off the bottom of a body of water'], 'Adjective': ['covered with bright patches (often used in combination']}
+Synonym:['splattered', 'spattered', 'covered', 'splashed']
+Antonym:['bare', 'concentrated', 'distribute', 'bring out', 'tell']
+vehemently:
+{'Adverb': ['in a vehement manner']}
+Synonym:None
+Antonym:None
+broach:
+{'Noun': ['a decorative pin worn by women'], 'Verb': ['bring up a topic for discussion']}
+Synonym:['sunburst', 'breastpin', 'brooch', 'pin']
+Antonym:['go', 'skew', 'tactlessness', 'right', 'disorganize']
+moot:
+{'Noun': ['a hypothetical case that law students argue as an exercise'], 'Verb': ['think about carefully; weigh'], 'Adjective': ['of no legal significance (as having been previously decided', 'open to argument or debate']}
+Synonym:['arguable', 'controversial', 'debatable', 'disputable']
+Antonym:['uncontroversial', 'agree', 'hurried', 'unintended', 'respect']
+ceded:
+{'Verb': ['give over; surrender or relinquish to the physical control of another', 'relinquish possession or control over']}
+Synonym:['give', 'grant', 'yield', 'concede']
+Antonym:['take', 'bottlefeed', 'disinherit', 'stay', 'explode']
+gusto:
+{'Noun': ['vigorous and enthusiastic enjoyment']}
+Synonym:['zestfulness', 'enjoyment', 'enthusiasm', 'zest', 'relish']
+Antonym:['pain', 'inactivity', 'dislike']
+There:
+{'Noun': ['a location other than here; that place'], 'Adverb': ['in or at that place or location', 'in that matter; in that respect; on that point', 'to or toward that place; away from the speaker']}
+Synonym:['in that location', 'at that place']
+Antonym:['here', 'inactivity', 'studio']
+scoffed:
+{'Verb': ['laugh at with contempt and derision', 'treat with contemptuous disregard']}
+Synonym:['tantalize', 'jeer', 'barrack', 'tease', 'cod', 'gibe', 'flout', 'tantalise', 'twit', 'ride', 'rally', 'taunt', 'bait', 'razz', 'rag']
+Antonym:['discontinue', 'disengage', 'spread', 'demobilize', 'please']
+cavernous:
+{'Adjective': ['being or suggesting a cavern', 'filled with vascular sinuses and capable of becoming distended and rigid as the result of being filled with blood']}
+Synonym:['expansive', 'erectile']
+Antonym:['unexpansive', 'uncommunicative', 'unimpressive']
+atrium:
+{'Noun': ['any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart', 'the central area in a building; open to the sky']}
+Synonym:['atrium cordis', 'atrium of the heart', 'chamber']
+Antonym:['refrain']
+milling:
+{'Noun': ['corrugated edge of a coin'], 'Verb': ['move about in a confused manner', 'grind with a mill', 'produce a ridge around the edge of', 'roll out (metal']}
+Synonym:['edge']
+Antonym:['recede', 'dull']
+amok:
+{'Adjective': ['wildly frenzied and out of control'], 'Adverb': ['wildly; without self-control', 'in a murderous frenzy']}
+Synonym:['possessed', 'berserk', 'demoniac', 'amuck', 'insane', 'demoniacal']
+Antonym:['sane', 'uncontrolled', 'reasonable', 'rational', 'wise']
+reverberate:
+{'Verb': ['ring or echo with sound', 'have a long or continuing effect', 'be reflected as heat, sound, or light or shock waves', 'to throw or bend back (from a surface', 'spring back; spring away from an impact', 'treat, process, heat, melt, or refine in a reverberatory furnace']}
+Synonym:['sound', 'consonate', 'ring', 'resound', 'reecho', 'echo', 'go', 'bong']
+Antonym:['autumnal equinox', 'attend to', 'arrive', 'attend', 'rise']
+semblance:
+{'Noun': ['an outward or token appearance or form that is deliberately misleading', 'an erroneous mental representation', 'picture consisting of a graphic image of a person or thing']}
+Synonym:['color', 'verisimilitude', 'pretext', 'colour', 'camouflage', 'pretence', 'guise', 'simulacrum', 'color of law', 'appearance', 'disguise', 'visual aspect', 'face value', 'pretense', 'gloss', 'colour of law']
+Antonym:['chromatic color', 'stay', 'blacken', 'whiten', 'uninterestingness']
+semblance:
+{'Noun': ['an outward or token appearance or form that is deliberately misleading', 'an erroneous mental representation', 'picture consisting of a graphic image of a person or thing']}
+Synonym:['color', 'verisimilitude', 'pretext', 'colour', 'camouflage', 'pretence', 'guise', 'simulacrum', 'color of law', 'appearance', 'disguise', 'visual aspect', 'face value', 'pretense', 'gloss', 'colour of law']
+Antonym:['chromatic color', 'stay', 'blacken', 'whiten', 'uninterestingness']
+acrimonious:
+{'Adjective': ['marked by strong resentment or cynicism']}
+Synonym:['bitter', 'resentful']
+Antonym:['unresentful', 'pleasant', 'tolerable']
+bogged:
+{'Verb': ['cause to slow down or get stuck', 'get stuck while doing something']}
+Synonym:None
+Antonym:None
+transfixed:
+{'Verb': ['to render motionless, as with a fixed stare or by arousing terror or awe', 'pierce with a sharp stake or point'], 'Adjective': ['having your attention fixated as though by a spell']}
+Synonym:['fascinated', 'spell-bound', 'spellbound', 'enchanted', 'hypnotized', 'hypnotised', 'mesmerized', 'mesmerised']
+Antonym:['disenchanted', 'disillusioned', 'disabused', 'sophisticated', 'undeceived']
+dissertation:
+{'Noun': ['a treatise advancing a new point of view resulting from research; usually a requirement for an advanced academic degree']}
+Synonym:['treatise', 'thesis']
+Antonym:None
+stint:
+{'Noun': ['an unbroken period of time during which you do something', 'smallest American sandpiper', "an individual's prescribed share of work"], 'Verb': ['subsist on a meager allowance', 'supply sparingly and with restricted quantities']}
+Synonym:['duration', 'continuance', 'stretch']
+Antonym:['demand', 'divest', 'fire', 'long']
+consummate:
+{'Verb': ['fulfill sexually', 'make perfect; bring to perfection'], 'Adjective': ['having or revealing supreme mastery or skill', 'perfect and complete in every respect; having all necessary qualities', 'without qualification; used informally as (often pejorative']}
+Synonym:['bed', 'make love', 'accomplish', 'fulfil', 'have a go at it', 'hump', 'be intimate', 'eff', 'execute', 'carry out', 'fulfill', 'sleep together', 'make out', 'have it off', 'do it', 'know', 'have intercourse', 'love', 'bang', 'get it on', 'fuck', 'bonk', 'action', 'screw', 'jazz', 'sleep with', 'lie with', 'have sex', 'have it away', 'carry through', 'roll in the hay', 'get laid']
+Antonym:['malevolence', 'dislike', 'miss', 'stay in place', 'open']
+rebuttal:
+{'Noun': ['the speech act of refuting by offering a contrary contention or argument']}
+Synonym:['refutation', 'defence', 'defense']
+Antonym:['offense', 'imperative']
+rankled:
+{'Verb': ['gnaw into; make resentful or angry']}
+Synonym:['bother', 'rile', 'eat into', 'annoy', 'fret', 'devil', 'gravel', 'grate', 'get to', 'irritate', 'nettle', 'vex', 'get at', 'chafe', 'nark', 'rag']
+Antonym:['please', 'calm', 'soothe', 'uncover', 'end']
+marred:
+{'Verb': ['make imperfect', 'destroy or injure severely'], 'Adjective': ['blemished by injury or rough wear']}
+Synonym:['scarred', 'blemished']
+Antonym:['unblemished', 'unmarked', 'perfect']
+atrium:
+{'Noun': ['any chamber that is connected to other chambers or passageways (especially one of the two upper chambers of the heart', 'the central area in a building; open to the sky']}
+Synonym:['atrium cordis', 'atrium of the heart', 'chamber']
+Antonym:['refrain']
+commemorate:
+{'Verb': ['celebrate by some ceremony or observation', 'call to remembrance; keep alive the memory of someone or something, as in a ceremony', 'be or provide a memorial to a person or an event']}
+Synonym:['celebrate', 'keep', 'mark', 'observe']
+Antonym:['lose', 'discontinue', 'refrain', 'attack', 'admit']
+Extemporaneously:
+{'Adverb': ['without prior preparation']}
+Synonym:['extemporarily', 'extempore']
+Antonym:['prepared']
+trove:
+{'Noun': ['treasure of unknown ownership found hidden (usually in the earth']}
+Synonym:['treasure trove', 'hoarded wealth', 'treasure']
+Antonym:['hate']
+penurious:
+{'Adjective': ['not having enough money to pay for necessities', 'excessively unwilling to spend']}
+Synonym:['stingy', 'parsimonious', 'ungenerous']
+Antonym:['generous', 'fat', 'low', 'unconstricted']
+harangued:
+{'Verb': ['deliver a harangue to; address forcefully']}
+Synonym:['address', 'speak']
+Antonym:['close up', 'specify']
+shrewd:
+{'Adjective': ['marked by practical hardheaded intelligence', 'acting with a specific goal']}
+Synonym:['sharp', 'astute', 'smart']
+Antonym:['stupid', 'artless', 'ease', 'effortless']
+tarnish:
+{'Noun': ['discoloration of metal surface caused by oxidation'], 'Verb': ['make dirty or spotty, as by exposure to air; also used metaphorically']}
+Synonym:['stain', 'fleck', 'defile', 'blob', 'maculate', 'darken', 'blot', 'spot', 'sully']
+Antonym:['brighten', 'clear up', 'stay', 'lighten']
+debacle:
+{'Noun': ['a sudden and violent collapse', 'flooding caused by a tumultuous breakup of ice in a river during the spring or summer', 'a sound defeat']}
+Synonym:['fiasco', 'collapse']
+Antonym:['beginning', 'success', 'little']
+fiscally:
+{'Adverb': ['in financial matters']}
+Synonym:['in fiscal matters']
+Antonym:None
+candor:
+{'Noun': ['ability to make judgments free from discrimination or dishonesty', 'the quality of being honest and straightforward in attitude and speech']}
+Synonym:['candour', 'ingenuousness', 'directness', 'honestness', 'frankness', 'forthrightness', 'honesty', 'candidness']
+Antonym:['disingenuousness', 'dishonesty', 'artfulness', 'sophistication', 'indirectness']
+snobbery:
+{'Noun': ['the trait of condescending to those of lower social status']}
+Synonym:['snobbishness', 'snobbism', 'hauteur', 'exclusiveness', 'high-handedness', 'cliquishness', 'haughtiness', 'clannishness', 'lordliness', 'arrogance']
+Antonym:None
+baffled:
+{'Noun': ['people who are frustrated and perplexed'], 'Verb': ['be a mystery or bewildering to', 'hinder or prevent (the efforts, plans, or desires', 'restrain the emission of (sound, fluid, etc.'], 'Adjective': ['perplexed by many conflicting situations or statements; filled with bewilderment']}
+Synonym:['people']
+Antonym:['thoughtless', 'regenerate']
+baffled:
+{'Noun': ['people who are frustrated and perplexed'], 'Verb': ['be a mystery or bewildering to', 'hinder or prevent (the efforts, plans, or desires', 'restrain the emission of (sound, fluid, etc.'], 'Adjective': ['perplexed by many conflicting situations or statements; filled with bewilderment']}
+Synonym:['people']
+Antonym:['thoughtless', 'regenerate']
+confounded:
+{'Verb': ['be confusing or perplexing to; cause to be unable to think clearly', 'mistake one thing for another'], 'Adjective': ['perplexed by many conflicting situations or statements; filled with bewilderment']}
+Synonym:['befuddled', 'perplexed', 'mazed', 'confused', 'baffled', 'bewildered', 'bemused', 'at sea', 'mixed-up', 'lost']
+Antonym:['unperplexed', 'clearheaded', 'coherent', 'organized', 'oriented']
+dossier:
+{'Noun': ["a collection of papers containing detailed information about a particular person or subject (usually a person's record"]}
+Synonym:['written account', 'written record']
+Antonym:None
+egregious:
+{'Adjective': ['conspicuously and outrageously bad or reprehensible']}
+Synonym:['conspicuous', 'gross', 'flagrant', 'rank', 'glaring', 'crying']
+Antonym:['inconspicuous', 'discreet', 'inconspicuousness', 'concealed', 'mitigated']
+upends:
+{'Verb': ['become turned or set on end', 'set, turn, or stand on end']}
+Synonym:['put', 'pose', 'place', 'lay', 'set', 'position']
+Antonym:['deglycerolize', 'disarrange', 'divest', 'disorganize', 'disorganise']
+litany:
+{'Noun': ['any long and tedious address or recital', 'a prayer consisting of a series of invocations by the priest with responses from the congregation']}
+Synonym:['Book of Common Prayer']
+Antonym:['go', 'skew', 'tactlessness']
+untenable:
+{'Adjective': ['(of theories etc']}
+Synonym:['unreasonable', 'indefensible']
+Antonym:['reasonable', 'moderate', 'rational']
+euphemistic:
+{'Adjective': ['of or the nature of euphemism']}
+Synonym:['inoffensive']
+Antonym:['dysphemistic', 'offensive']
+detractors):
+None
+Synonym:None
+Antonym:None
+astute:
+{'Adjective': ['marked by practical hardheaded intelligence']}
+Synonym:['shrewd', 'sharp', 'smart']
+Antonym:['stupid', 'soft', 'pointless', 'dullness']
+lapses:
+{'Noun': ['a mistake resulting from inattention', 'a break or intermission in the occurrence of something', 'a failure to maintain a higher state'], 'Verb': ['pass into a specified state or condition', 'end, at least for a long time', "drop to a lower level, as in one's morals or standards", 'go back to bad behavior', 'let slip', 'pass by']}
+Synonym:['fault', 'oversight', 'error', 'mistake']
+Antonym:['increase', 'dry fly', 'wet fly', 'unalert', 'stand still']
+censure:
+{'Noun': ['harsh criticism or disapproval', 'the state of being excommunicated'], 'Verb': ['rebuke formally']}
+Synonym:['animadversion', 'condemnation', 'interdict', 'disapprobation']
+Antonym:['approbation', 'flatter', 'miss', 'acquittal', 'approval']
+censure:
+{'Noun': ['harsh criticism or disapproval', 'the state of being excommunicated'], 'Verb': ['rebuke formally']}
+Synonym:['animadversion', 'condemnation', 'interdict', 'disapprobation']
+Antonym:['approbation', 'flatter', 'miss', 'acquittal', 'approval']
+specks:
+{'Noun': ['a very small spot', '(nontechnical usage', 'a slight but appreciable amount'], 'Verb': ['produce specks in or on']}
+Synonym:['speckle', 'fleck', 'maculation', 'pinpoint', 'patch', 'dapple', 'spot']
+Antonym:['large', 'big', 'conductor', 'insulator', 'unstuff']
+mull:
+{'Noun': ['a term used in Scottish names of promontories', 'an island in western Scotland in the Inner Hebrides'], 'Verb': ['reflect deeply on a subject', 'heat with sugar and spices to make a hot drink']}
+Synonym:['muse', 'consider', 'premeditate', 'cerebrate', 'study', 'question', 'introspect', 'think over', 'excogitate', 'bethink', 'wonder', 'chew over', 'think', 'theologize', 'puzzle', 'speculate', 'reflect', 'cogitate', 'theologise', 'mull over', 'ruminate', 'ponder', 'meditate', 'contemplate']
+Antonym:['dissociate', 'answer', 'certainty', 'forget', 'divest']
+“truisms”:
+None
+Synonym:None
+Antonym:None
+unprecedented:
+{'Adjective': ['having no precedent; novel']}
+Synonym:['unexampled', 'new']
+Antonym:['precedented', 'nonmodern', 'old']
+shibboleths):
+None
+Synonym:None
+Antonym:None
+rasp:
+{'Noun': ['uttering in an irritated tone', 'a coarse file with sharp pointed projections'], 'Verb': ['scrape with a rasp', 'utter in a grating voice']}
+Synonym:['utterance', 'rasping', 'vocalization']
+Antonym:['specify', 'mitigated', 'incomplete', 'keep quiet']
+gaunt:
+{'Adjective': ['very thin especially from disease or hunger or cold']}
+Synonym:['wasted', 'haggard', 'cadaverous', 'thin', 'skeletal', 'bony', 'pinched', 'lean', 'emaciated']
+Antonym:['fat', 'valuable', 'found', 'hypertrophied', 'rested']
+waned:
+{'Verb': ['grow smaller', 'become smaller', 'decrease in phase']}
+Synonym:['sick', 'pallid', 'weak', 'pale']
+Antonym:['strong', 'unalarming', 'pleased', 'unmoved', 'colourful']
+fatalistic:
+{'Adjective': ['of or relating to fatalism']}
+Synonym:['fatalist']
+Antonym:['libertarian']
+chagrin:
+{'Noun': ['strong feelings of embarrassment'], 'Verb': ['cause to feel shame; hurt the pride of']}
+Synonym:['embarrassment', 'humiliation', 'mortification']
+Antonym:['clock out', 'punch out', 'stand', 'sit']
+ascribe:
+{'Verb': ['attribute or credit to']}
+Synonym:['evaluate', 'externalize', 'charge', 'internalize', 'credit', 'personate', 'internalise', 'anthropomorphise', 'judge', 'personify', 'accredit', 'impute', 'anthropomorphize', 'attribute', 'reattribute', 'pass judgment', 'blame', 'project', 'interiorise', 'carnalize', 'interiorize', 'sensualize', 'assign', 'externalise']
+Antonym:['fail', 'reject', 'disapprove', 'pass', 'approve']
+dereliction:
+{'Noun': ['a tendency to be negligent and uncaring', 'willful negligence']}
+Synonym:['neglect', 'carelessness', 'nonfeasance', 'negligence', 'wrongful conduct', 'misconduct', 'wrongdoing', 'nonperformance', 'actus reus']
+Antonym:['attend to', 'mind', 'carefulness', 'keep track', 'pay up']
+cede:
+{'Verb': ['give over; surrender or relinquish to the physical control of another', 'relinquish possession or control over']}
+Synonym:['give', 'grant', 'yield', 'concede']
+Antonym:['take', 'bottlefeed', 'disinherit', 'stay', 'explode']
+enormity:
+{'Noun': ['the quality of being outrageous', 'vastness of size or extent', 'the quality of extreme wickedness', 'an act of extreme wickedness']}
+Synonym:['outrageousness', 'indecency']
+Antonym:['decency', 'attractiveness', 'pleasingness']
+tacit:
+{'Adjective': ['implied by or inferred from actions or statements']}
+Synonym:['understood', 'silent', 'inexplicit', 'implicit']
+Antonym:['explicit', 'ununderstood', 'articulate', 'noisy', 'communicative']
+fiscal:
+{'Adjective': ['involving financial matters']}
+Synonym:['financial']
+Antonym:['nonfinancial']
+quintessentially:
+None
+Synonym:None
+Antonym:None
+usurp:
+{'Verb': ["seize and take control without authority and possibly with force; take as one's right or possession", 'take the place of']}
+Synonym:['preoccupy', 'arrogate', 'conquer', 'take', 'take over', 'raid', 'capture', 'seize', 'appropriate', 'assume', 'annex', 'hijack']
+Antonym:['derequisition', 'forfeit', 'louden', 'fuse', 'saddle']
+non-disparagement:
+None
+Synonym:['fairness', 'equity']
+Antonym:['inequity', 'unfairness', 'unfair']
+rapturous:
+{'Adjective': ['feeling great rapture or delight']}
+Synonym:['rapt', 'enraptured', 'joyous', 'ecstatic', 'rhapsodic']
+Antonym:['joyless', 'unhappy', 'dejected', 'sorrowful', 'cheerless']
+slew:
+{'Noun': [], 'Verb': ['kill intentionally and with premeditation', 'turn sharply; change direction abruptly', 'move obliquely or sideways, usually in an uncontrolled manner']}
+Synonym:['peel off', 'curve', 'turn', 'veer', 'cut', 'trend', 'sheer', 'yaw', 'swerve', 'slue']
+Antonym:['misfortune', 'bad luck', 'unite', 'empty', 'ebbtide']
+gnawed:
+{'Verb': ['bite or chew on with the teeth', 'become ground down or deteriorate']}
+Synonym:['masticate', 'bite', 'chew', 'jaw', 'seize with teeth', 'manducate']
+Antonym:['addition', 'failure', 'praise']
+fraught:
+{'Adjective': ['marked by distress', 'filled with or attended with']}
+Synonym:['troubled']
+Antonym:['untroubled', 'fractional']
+spewing:
+{'Verb': ['expel or eject (saliva or phlegm or sputum', 'eject or send out in large quantities, also metaphorical', 'eject the contents of the stomach through the mouth']}
+Synonym:['be sick', 'eliminate', 'cast', 'disgorge', 'pass', 'regorge', 'sick', 'purge', 'spue', 'vomit', 'excrete', 'honk', 'chuck', 'barf', 'vomit up', 'regurgitate', 'egest', 'throw up', 'upchuck', 'cat', 'puke', 'retch']
+Antonym:['keep down', 'include', 'necessitate', 'stay in place', 'dematerialize']
+exhort:
+{'Verb': ['spur on or encourage especially by cheers and shouts', 'force or impel in an indicated direction']}
+Synonym:['bear on', 'advocate', 'push', 'urge', 'urge on', 'rede', 'hurry', 'counsel', 'press', 'advise', 'rush', 'preach']
+Antonym:['delay', 'stifle', 'discontinue', 'nonpartisan', 'pull']
+diatribe:
+{'Noun': ['thunderous verbal attack']}
+Synonym:['denunciation', 'denouncement', 'fulmination']
+Antonym:None
+rampant:
+{'Adjective': ['unrestrained and violent', 'rearing on left hind leg with forelegs elevated and head usually in profile', '(of a plant']}
+Synonym:['uncontrolled']
+Antonym:['controlled', 'level']
+impromptu:
+{'Noun': ['an extemporaneous speech or remark', 'a short musical passage that seems to have been made spontaneously without advance preparation'], 'Adjective': ['with little or no preparation or forethought'], 'Adverb': ['without advance preparation']}
+Synonym:['speech', 'address']
+Antonym:['fitted out', 'precooked', 'equipped']
+candid:
+{'Adjective': ['characterized by directness in manner or speech; without subtlety or evasion', 'informal or natural; especially caught off guard or unprepared', 'openly straightforward and direct without reserve or secretiveness']}
+Synonym:['plainspoken', 'outspoken', 'forthright', 'direct', 'frank', 'point-blank', 'blunt', 'free-spoken', 'straight-from-the-shoulder']
+Antonym:['indirect', 'rhetorical', 'uncommunicative', 'undock', 'dishonest']
+scourge:
+{'Noun': ['a whip used to inflict punishment (often used for pedantic humor', 'something causing misery or death', 'a person who inspires fear or dread'], 'Verb': ['punish severely; excoriate', 'cause extensive destruction or ruin utterly']}
+Synonym:['whip', 'flagellum']
+Antonym:['take away', 'unstrap', 'untie']
+adjudicate:
+{'Verb': ['put on trial or hear a case and sit as the judge at the trial of', 'bring to an end; settle conclusively']}
+Synonym:['resolve', 'judge', 'adjust', 'terminate', 'end', 'settle', 'decide']
+Antonym:['begin', 'irresoluteness', 'indecision', 'indecisiveness', 'disagree']
+candor:
+{'Noun': ['ability to make judgments free from discrimination or dishonesty', 'the quality of being honest and straightforward in attitude and speech']}
+Synonym:['candour', 'ingenuousness', 'directness', 'honestness', 'frankness', 'forthrightness', 'honesty', 'candidness']
+Antonym:['disingenuousness', 'dishonesty', 'artfulness', 'sophistication', 'indirectness']
+innocuous:
+{'Adjective': ['not injurious to physical or mental health', 'not causing disapproval', 'lacking intent or capacity to injure']}
+Synonym:['innocent', 'harmless']
+Antonym:['harmful', 'guilty', 'unrighteous']
+benign:
+{'Adjective': ['not dangerous to health; not recurrent or progressive (especially of a tumor', 'pleasant and beneficial in nature or influence', 'kindness of disposition or manner']}
+Synonym:['kind']
+Antonym:['unkind', 'antitype']
+enamored:
+{'Verb': ['attract; cause to be enamored'], 'Adjective': ['marked by foolish or unreasoning fondness']}
+Synonym:['soft on', 'loving', 'potty', 'smitten', 'in love', 'infatuated', 'taken with']
+Antonym:['unloving', 'coldhearted', 'hateful', 'passionless', 'unattached']
+punted:
+{'Verb': ['kick the ball', 'propel with a pole', 'place a bet on']}
+Synonym:['kick']
+Antonym:['immovableness', 'tightness']
+alma:
+None
+Synonym:['Kazakstan', 'Republic of Kazakhstan', 'Kazakhstan', 'Kazakh', 'Almaty', 'Kazak']
+Antonym:None
+mater:
+{'Noun': ['an informal use of the Latin word for mother; sometimes used by British schoolboys or used facetiously']}
+Synonym:['female parent', 'mother']
+Antonym:['father', 'male parent', 'child']
+ratify:
+{'Verb': ['approve and express assent, responsibility, or obligation']}
+Synonym:['formalise', 'sign', 'endorse', 'indorse', 'formalize', 'validate']
+Antonym:['invalidate', 'fire', 'negativeness', 'negativity', 'positiveness']
+dissuaded:
+{'Verb': ['turn away from by persuasion']}
+Synonym:['deter', 'rede', 'talk out of', 'counsel', 'advise']
+Antonym:['persuade', 'talk into', 'approve', 'indicate', 'drag']
+sprawling:
+{'Noun': ['an ungainly posture with arms and legs spread about'], 'Verb': ["sit or lie with one's limbs spread out", 'go, come, or spread in a rambling or irregular way'], 'Adjective': ['spreading out in different directions or distributed irregularly']}
+Synonym:['sprawl', 'attitude', 'position', 'posture']
+Antonym:['gather', 'reverence', 'respect', 'intolerance', 'irreverence']
+abhorrent:
+{'Adjective': ['offensive to the mind']}
+Synonym:['obscene', 'detestable', 'repulsive', 'repugnant', 'offensive']
+Antonym:['inoffensive', 'clean', 'decent', 'lovable', 'attractive']
+rebuke:
+{'Noun': ['an act or expression of criticism and censure'], 'Verb': ['censure severely or angrily']}
+Synonym:['chew out', 'lecture', 'remonstrate', 'call on the carpet', 'call down', 'take to task', 'chide', 'reproof', 'reprimand', 'chasten', 'lambaste', 'tell off', 'objurgate', 'have words', 'scold', 'criticise', 'correct', 'bawl out', 'rag', 'berate', 'dress down', 'trounce', 'castigate', 'jaw', 'chew up', 'pick apart', 'brush down', 'knock', 'chastise', 'criticize', 'lambast']
+Antonym:['praise', 'desynchronize', 'depressurize', 'pressurize', 'pressurise']
+scuttle:
+{'Noun': ['container for coal; shaped to permit pouring the coal onto the fire', 'an entrance equipped with a hatch; especially a passageway between decks of a ship'], 'Verb': ['to move about or proceed hurriedly']}
+Synonym:['skitter', 'scurry', 'run', 'crab', 'scamper']
+Antonym:['stand still', 'ebb', 'arrive', 'malfunction', 'earned run']
+exhorted:
+{'Verb': ['spur on or encourage especially by cheers and shouts', 'force or impel in an indicated direction']}
+Synonym:['bear on', 'advocate', 'push', 'urge', 'urge on', 'rede', 'hurry', 'counsel', 'press', 'advise', 'rush', 'preach']
+Antonym:['delay', 'stifle', 'discontinue', 'nonpartisan', 'pull']
+divest:
+{'Verb': ['take away possessions from someone', 'deprive of status or authority', 'reduce or dispose of; cease to hold (an investment', "remove (someone's or one's own"]}
+Synonym:['dispossess', 'unclothe', 'unsex', 'strip', 'take', 'expropriate', 'orphan', 'disarm', 'clean', 'unarm', 'clean out', 'deprive', 'bereave']
+Antonym:['give', 'dock', 'charge', 'ionate', 'calcify']
+Squawk:
+{'Noun': ['the noise of squawking', 'informal terms for objecting'], 'Verb': ['utter a harsh abrupt scream', 'complain']}
+Synonym:['yell', 'cry', 'scream', 'skreigh', 'holler', 'shout', 'skreak', 'squall', 'hollo', 'shout out', 'screech', 'screak', 'call']
+Antonym:['rhetorical', 'unobvious', 'impure', 'patterned', 'indirect']
+indelible:
+{'Adjective': ['cannot be removed or erased']}
+Synonym:['ineradicable', 'unerasable']
+Antonym:['eradicable', 'impermanent', 'delible']
+slated:
+{'Verb': ['designate or schedule', 'enter on a list or slate for an election', 'cover with slate']}
+Synonym:['splat', 'Venetian blind', 'fin', 'strip', 'stave', 'louver', 'spline', 'lath', 'lag', 'louvre']
+Antonym:['natural object', 'give', 'dress', 'roughen', 'free']
+chagrin:
+{'Noun': ['strong feelings of embarrassment'], 'Verb': ['cause to feel shame; hurt the pride of']}
+Synonym:['embarrassment', 'humiliation', 'mortification']
+Antonym:['clock out', 'punch out', 'stand', 'sit']
+inoculate:
+{'Verb': ['introduce an idea or attitude into the mind of', 'introduce a microorganism into', 'perform vaccinations or produce immunity in by inoculation', 'insert a bud for propagation', 'impregnate with the virus or germ of a disease in order to render immune']}
+Synonym:['inform']
+Antonym:['empty', 'stay in place']
+wistfulness:
+{'Noun': ['a sadly pensive longing']}
+Synonym:['hungriness', 'yearning', 'longing']
+Antonym:['contentment']
+retrospect:
+{'Noun': ['contemplation of things past'], 'Verb': ['look back upon (a period of time, sequence of events']}
+Synonym:['rumination', 'thoughtfulness', 'musing', 'contemplation', 'reflection', 'reflexion']
+Antonym:['unthoughtfulness', 'thoughtful', 'thoughtless', 'inconsideration', 'thoughtlessness']
+emblazoned:
+{'Verb': ['decorate with colors', 'decorate with heraldic arms']}
+Synonym:['color', 'adorn', 'decorate', 'embellish', 'colour', 'ornament', 'grace', 'beautify', 'miniate']
+Antonym:['chromatic color', 'stay', 'blacken', 'whiten', 'uninterestingness']
+heft:
+{'Noun': ['the property of being large in mass'], 'Verb': ['lift or elevate', 'test the weight of something by lifting it']}
+Synonym:['heave', 'heft up', 'weigh the anchor', 'heave up', 'weigh anchor', 'lift', 'upheave']
+Antonym:['stay in place', 'worsen', 'begin', 'interestingness', 'ease']
+stultifying:
+{'Verb': ["prove to be of unsound mind or demonstrate someone's incompetence", 'cause to appear foolish', 'deprive of strength or efficiency; make useless or worthless']}
+Synonym:['weaken', 'cripple']
+Antonym:['strengthen', 'raw', 'woman']
+bulwark:
+{'Noun': ['an embankment built around a space for defensive purposes', 'a fencelike structure around a deck (usually plural', 'a protective structure of stone or concrete; extends from shore into the water to prevent a beach from washing away'], 'Verb': ['defend with a bulwark']}
+Synonym:['barrier', 'ship']
+Antonym:['prosecute', 'bombard', 'besiege']
+permeate:
+{'Verb': ['spread or diffuse through', 'pass through', 'penetrate mutually or be interlocked']}
+Synonym:['perforate', 'penetrate', 'interpenetrate', 'diffuse', 'riddle', 'imbue', 'spiritize', 'pervade', 'spiritise']
+Antonym:['concise', 'discolor', 'deteriorate', 'defend']
